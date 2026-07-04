@@ -5,7 +5,7 @@
 - [Schedule from the Teams Calendar](#schedule-from-the-teams-calendar)
 - [Schedule from Chat](#schedule-from-chat)
 - [Schedule a Channel Meeting](#schedule-a-channel-meeting)
-  - [Schedule from Microsoft Outlook](#schedule-from-microsoft-outlook)
+- [Schedule from Microsoft Outlook](#schedule-from-microsoft-outlook)
 - [Meeting scheduling options](#meeting-scheduling-options)
   - [Meeting scheduling fields](#meeting-scheduling-fields)
   - [Meeting options](#meeting-options)
@@ -182,7 +182,7 @@ The meeting appears in the selected channel.
 
 ---
 
-## Schedule from Microsoft Outlook
+# Schedule from Microsoft Outlook
 
 Schedule a meeting from Outlook.
 
