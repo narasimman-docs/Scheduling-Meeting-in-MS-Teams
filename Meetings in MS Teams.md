@@ -1,26 +1,12 @@
-# Schedule meetings in Microsoft Teams
-
-- [Schedule meetings in Microsoft Teams](#schedule-meetings-in-microsoft-teams)
-  - [Overview](#overview)
+- [Overview](#overview)
   - [Benefits](#benefits)
   - [Ways to schedule a meeting](#ways-to-schedule-a-meeting)
   - [Meeting lifecycle](#meeting-lifecycle)
-- [Schedule a Meeting in Microsoft Teams](#schedule-a-meeting-in-microsoft-teams)
-- [Method 1 — Schedule from the Teams Calendar](#method-1--schedule-from-the-teams-calendar)
-  - [Prerequisites](#prerequisites)
-  - [Procedure](#procedure)
-- [Method 2 — Schedule from Chat](#method-2--schedule-from-chat)
-  - [Prerequisites](#prerequisites-1)
-  - [Procedure](#procedure-1)
-- [Method 3 — Schedule a Channel Meeting](#method-3--schedule-a-channel-meeting)
-  - [Prerequisites](#prerequisites-2)
-    - [Procedure](#procedure-2)
-    - [Verification](#verification)
-- [Method 4 — Schedule from Microsoft Outlook](#method-4--schedule-from-microsoft-outlook)
-  - [Prerequisites](#prerequisites-3)
-    - [Procedure](#procedure-3)
+- [Schedule from the Teams Calendar](#schedule-from-the-teams-calendar)
+- [Schedule from Chat](#schedule-from-chat)
+- [Schedule a Channel Meeting](#schedule-a-channel-meeting)
+  - [Schedule from Microsoft Outlook](#schedule-from-microsoft-outlook)
 - [Meeting scheduling options](#meeting-scheduling-options)
-  - [In this section](#in-this-section)
   - [Meeting scheduling fields](#meeting-scheduling-fields)
   - [Meeting options](#meeting-options)
   - [Participant roles](#participant-roles)
@@ -34,9 +20,8 @@
   - [Best practices](#best-practices)
 
 
----
 
-## Overview
+# Overview
 
 A Microsoft Teams meeting is an online collaboration session that lets participants communicate with audio, video, screen sharing, chat, file sharing, and collaborative applications. A scheduled meeting creates a calendar event, sends invitations to participants, and reserves a meeting space that attendees can join at the scheduled time.
 
@@ -95,23 +80,17 @@ Join Meeting
 > **Note**: Teams automatically synchronizes meetings with Outlook when both applications use the same Microsoft 365 account.
 
 ---
+# Schedule from the Teams Calendar
+Schedule a meeting form **Teams Calender**.
 
-# Schedule a Meeting in Microsoft Teams
-
-Schedule a Microsoft Teams meeting and send invitations to participants.
-
----
-
-# Method 1 — Schedule from the Teams Calendar
-
-## Prerequisites
+**Prerequisites**
 
 - Sign in to Microsoft Teams.
 - Have permission to create meetings.
 - Know the participant names or email addresses.
 - Verify that the **Calendar** app is available.
 
-## Procedure
+**Procedure**
 
 1. From your desktop, open **Microsoft Teams**.
 2. In the left navigation pane, select **Calendar**.
@@ -132,17 +111,17 @@ Schedule a Microsoft Teams meeting and send invitations to participants.
 
 Teams creates the meeting and sends invitations to participants.
 
-# Method 2 — Schedule from Chat
+# Schedule from Chat
 
 Schedule a meeting from an existing chat.
 
-## Prerequisites
+**Prerequisites**
 
 - Sign in to Microsoft Teams.
 - Have an existing one-to-one or group chat.
 - Have permission to create meetings.
 
-## Procedure
+**Procedure**
 
 1. From your desktop, open **Microsoft Teams**.
 2. In the left navigation pane, select **Chat**.
@@ -167,17 +146,17 @@ Teams creates the meeting and sends invitations to participants.
 
 ---
 
-# Method 3 — Schedule a Channel Meeting
+# Schedule a Channel Meeting
 
 Schedule a meeting for a Teams channel.
 
-## Prerequisites
+**Prerequisites**
 
 - Sign in to Microsoft Teams.
 - Be a member of the target team.
 - Have permission to create channel meetings.
 
-### Procedure
+**Procedure**
 
 1. From your desktop, open **Microsoft Teams**.
 2. In the left navigation pane, select **Teams**.
@@ -201,21 +180,19 @@ Schedule a meeting for a Teams channel.
 
 The meeting appears in the selected channel.
 
-### Verification
-
 ---
 
-# Method 4 — Schedule from Microsoft Outlook
+## Schedule from Microsoft Outlook
 
-Create a Teams meeting from Outlook.
+Schedule a meeting from Outlook.
 
-## Prerequisites
+**Prerequisites**
 
 - Sign in to Microsoft Outlook.
 - Ensure Outlook is connected to Microsoft 365.
 - Ensure the Microsoft Teams add-in is enabled.
 
-### Procedure
+**Procedure**
 
 1. From your desktop, open **Microsoft Outlook**.
 2. In the **Home** tab, select **New Event**.
@@ -245,20 +222,17 @@ Teams synchronizes the meeting with Microsoft Outlook.
 
 # Meeting scheduling options
 Use the following sections to understand the available settings. You can configure these fields, options, roles, and settings when you create or edit a Teams meeting.
-
-## In this section
-- [Meeting scheduling fields](#meeting-scheduling-fields)
-- [Meeting options](#meeting-options)
-- [Participant roles](#participant-roles)
-- [Permissions](#permissions)
-- [Recurrence options](#recurrence-options)
-- [Calendar views](#calendar-views)
-- [Common icons](#common-icons)
-- [Keyboard shortcuts (Windows)](#keyboard-shortcuts-windows)
-- [Common error messages](#common-error-messages)
-- [Known limitations](#known-limitations)
-- [Best practices](#best-practices)
-
+-  Meeting scheduling fields
+-  Meeting options
+-  Participant roles
+-  Permissions
+-  Recurrence options
+-  Calendar views
+-  Common icons
+-  Keyboard shortcuts (Windows)
+-  Common error messages
+-  Known limitations
+-  Best practices
 ## Meeting scheduling fields
 
 Use the following table to understand the fields you can configure when you create or edit a meeting. Optional fields are marked as optional.
@@ -296,6 +270,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Participant roles
+Describes common meeting roles and the typical capabilities assigned to each.
 
 | Role | Capabilities |
 |------|--------------|
@@ -307,6 +282,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Permissions
+Lists actions related to meetings and the requirements or policies that control them.
 
 | Action | Requirement |
 |---------|-------------|
@@ -319,6 +295,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Recurrence options
+Defines the recurrence patterns available when scheduling repeating meetings.
 
 | Option | Description |
 |---------|-------------|
@@ -332,6 +309,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Calendar views
+Explains the available calendar views and when to use each one.
 
 | View | Description |
 |------|-------------|
@@ -343,6 +321,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Common icons
+Legend of common icons shown in Teams calendar and meeting UI, and what they represent.
 
 | Icon | Meaning |
 |------|---------|
@@ -358,6 +337,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Keyboard shortcuts (Windows)
+Useful keyboard shortcuts for Teams on Windows to speed up scheduling and meeting actions.
 
 | Shortcut | Action |
 |-----------|--------|
@@ -370,6 +350,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Common error messages
+Common scheduling error messages, their possible causes, and suggested resolutions.
 
 | Message | Possible Cause | Resolution |
 |----------|----------------|------------|
@@ -381,6 +362,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Known limitations
+Platform, policy, and licensing limitations that can affect meeting features and behavior.
 
 | Limitation | Description |
 |------------|-------------|
@@ -393,6 +375,7 @@ Use the following table to review meeting options. These options control attende
 ---
 
 ## Best practices
+Practical recommendations to improve meeting scheduling, attendance, and follow-up.
 
 - Use descriptive meeting titles.
 - Include an agenda.
