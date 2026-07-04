@@ -1,7 +1,7 @@
-# Scheduling Meetings in Microsoft Teams
+# Schedule meetings in Microsoft Teams
 
-- [Scheduling Meetings in Microsoft Teams](#scheduling-meetings-in-microsoft-teams)
-- [Meetings in Microsoft Teams](#meetings-in-microsoft-teams)
+- [Schedule meetings in Microsoft Teams](#schedule-meetings-in-microsoft-teams)
+  - [Overview](#overview)
   - [Benefits](#benefits)
   - [Ways to schedule a meeting](#ways-to-schedule-a-meeting)
   - [Meeting lifecycle](#meeting-lifecycle)
@@ -36,7 +36,7 @@
 
 ---
 
-# Meetings in Microsoft Teams
+## Overview
 
 A Microsoft Teams meeting is an online collaboration session that lets participants communicate with audio, video, screen sharing, chat, file sharing, and collaborative applications. A scheduled meeting creates a calendar event, sends invitations to participants, and reserves a meeting space that attendees can join at the scheduled time.
 
